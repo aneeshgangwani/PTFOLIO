@@ -1,0 +1,42 @@
+
+
+h1{
+    color:crimson;
+    text-align: center;
+    background-color: turquoise;
+    font-style: oblique;
+}
+
+.header{
+    color:deeppink;
+    border: thin;
+    border-color: black;
+    background-color: turquoise;
+
+}
+
+.menu{
+    font-size: 10mm;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    color: rgb(255, 240, 252);
+    justify-content: center;
+}
+
+body{
+    background: color #808080; 
+    background-image: url("bg2.jpg");
+    background-size: cover;
+    font-family: Georgia;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p,h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
